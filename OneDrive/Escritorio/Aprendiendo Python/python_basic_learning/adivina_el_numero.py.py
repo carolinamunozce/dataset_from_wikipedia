@@ -1,5 +1,5 @@
 #Adivinar el número al azar
-import random()
+import random
 
 def run():
     numero_aleatorio = random.randonint(1, 100)
